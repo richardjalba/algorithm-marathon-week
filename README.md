@@ -3,3 +3,4 @@ This repository will be updated every day that is dedicated to solving and impro
 
 Day 1 | 9/28/2020 COMPLETE
 Day 2 | 9/29/2020 COMPLETE
+Day 3 | 9/30/2020 COMPLETE
